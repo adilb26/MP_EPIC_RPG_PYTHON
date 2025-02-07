@@ -1,0 +1,11 @@
+{
+    "adilb": {
+        "password": "adilb",
+        "coin": 203,
+        "xp": 461,
+        "health": 100,
+        "total_health": 100,
+        "attack": 10,
+        "defense": 5
+    }
+}
