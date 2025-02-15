@@ -1,9 +1,27 @@
 {
-    "adilb": {
-        "password": "adilb",
-        "coin": 203,
-        "xp": 461,
+    "nilay": {
+        "password": "nilay",
+        "coin": 187,
+        "xp": 418,
+        "health": 97,
+        "total_health": 100,
+        "attack": 10,
+        "defense": 5
+    },
+    "adil": {
+        "password": "adil",
+        "coin": 0,
+        "xp": 0,
         "health": 100,
+        "total_health": 100,
+        "attack": 10,
+        "defense": 5
+    },
+    "khusal": {
+        "password": "khusal",
+        "coin": 89,
+        "xp": 251,
+        "health": 45,
         "total_health": 100,
         "attack": 10,
         "defense": 5

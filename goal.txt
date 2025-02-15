@@ -1,0 +1,10 @@
+COOLDOWN
+
+inventory
+store
+adventure
+chop
+fishing
+rewards
+profiling
+increase max health as per level up

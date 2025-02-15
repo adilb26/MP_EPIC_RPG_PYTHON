@@ -52,7 +52,7 @@ def delete_user(username):
     if username in users:
         del users[username]
         save_user_data(users)
-        print(f"User {username} has been deleted.")
+        print("User {username} has been deleted.")
     else:
         print("User not found.")
 
@@ -95,7 +95,7 @@ def rpghunt(level, user):
     if user['health'] <= 0:
         print("💀 You have been defeated and lost all your experience points.")
         user['xp'] = 0
-    print(f"💵 Total coins: {user['coin']}, ⭐ Total experience points: {user['xp']}")
+    print("💵 Total coins: {user['coin']}, ⭐ Total experience points: {user['xp']}")
 
 def main():
     user = None
